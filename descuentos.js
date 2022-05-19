@@ -1,17 +1,3 @@
-// Paso 1 y 2
-// const precioOriginal = 120;
-// const descuento = 18;
-
-// const porcentajePrecioConDescuento = 100 - descuento;
-// const precioConDescuento = (precioOriginal * porcentajePrecioConDescuento)/100;
-
-// console.log({
-//     precioOriginal,
-//     descuento,
-//     porcentajePrecioConDescuento,
-//     precioConDescuento,
-// });
-
 //Paso 3
 function calcularPrecioConDescuento (precio, descuento){
     const porcentajePrecioConDescuento = 100 - descuento;
